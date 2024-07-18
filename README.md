@@ -1,6 +1,7 @@
 # CV Responsivo - Trabalhando com responsividade na prática
 
 Esse repositório foi criado para a Live do Bootcamp Impulso React Web Developer da Digital Innovation One.
+https://www.youtube.com/watch?v=HXK2vf7HVp4&ab_channel=DigitalInnovationOne2
 
 ---
 
